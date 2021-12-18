@@ -1,4 +1,4 @@
-# Computer Vision With Sccarce Labels
+# Computer Vision With Scarce Labels
 
 
 
